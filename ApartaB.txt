@@ -8,5 +8,6 @@
 10. grep -n roo processos.txt
 11. cat processos.txt | awk '{print $1":"$2":"$11}' | grep :[1-9]:
 
-12.mv MobyDick.txt tres
+12. mv MobyDick.txt tres
 13. cat MobyDick.txt  | grep -uc "Moby"
+14. cat MobyDick.txt | grep -o 'Moby' | wc -w
