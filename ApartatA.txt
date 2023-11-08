@@ -6,3 +6,4 @@ Empieza a partir del 4
 6. cp ps aux > processos.txt
 7. cd dos
 8. cat processos.txt | grep "root" processos.txt
+9. awk '{print $2, $9}' processos.txt
