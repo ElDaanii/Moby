@@ -5,3 +5,4 @@ Empieza a partir del 4
 6. touch processos.txt 
 6. cp ps aux > processos.txt
 7. cd dos
+8. cat processos.txt | grep "root" processos.txt
