@@ -1,5 +1,6 @@
 Empieza a partir del 4
 
-mkdir un dos tres
-touch un.txt | echo "Dani Arastell" > un.txt
-touch processos.txt | cp  processos.txt /U3AP6/dos | ps aux
+4. mkdir un dos tres
+5. touch un.txt | echo "Dani Arastell" > un.txt
+6. touch processos.txt 
+6. cp ps aux > processos.txt
