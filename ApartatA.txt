@@ -4,3 +4,4 @@ Empieza a partir del 4
 5. touch un.txt | echo "Dani Arastell" > un.txt
 6. touch processos.txt 
 6. cp ps aux > processos.txt
+7. cd dos
