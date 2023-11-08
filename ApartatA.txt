@@ -7,3 +7,4 @@ Empieza a partir del 4
 7. cd dos
 8. cat processos.txt | grep "root" processos.txt
 9. awk '{print $2, $9}' processos.txt
+10. grep -n roo processos.txt
