@@ -1,3 +1,4 @@
 Empieza a partir del 4
 
 mkdir un dos tres
+touch un.txt | echo "Dani Arastell" > un.txt
